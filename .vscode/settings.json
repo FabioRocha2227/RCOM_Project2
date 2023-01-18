@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "macros.h": "c",
+        "link_layer.h": "c",
+        "application_layer.h": "c",
+        "utils.h": "c",
+        "stdio.h": "c",
+        "state_machine.h": "c"
+    }
+}
